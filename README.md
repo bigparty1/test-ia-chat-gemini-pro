@@ -223,5 +223,3 @@ Este é um projeto educacional de código aberto para fins de estudo.
 ---
 
 **Feito para estudo de integração de IA com React/TypeScript** 🚀
-])
-```
